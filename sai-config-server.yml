@@ -1,0 +1,5 @@
+spring:
+  security:
+    user:
+      name: root
+      password: c3VyYW1lcmljYWltcG9ydGFjaW9uZXM=
